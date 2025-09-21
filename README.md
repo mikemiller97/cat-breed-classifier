@@ -1,6 +1,6 @@
 # 🐾 Cat Breed Classifier
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dxBnwJNSKIFIczWtxRW4Ie1M12e4xMij#scrollTo=dulzo28n8hkA)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dxBnwJNSKIFIczWtxRW4Ie1M12e4xMij)
 
 This project is a **multi-class cat breed classifier** capable of identifying cats across **50+ breeds**.  
 It combines **object detection** and **image classification** into a streamlined pipeline:
